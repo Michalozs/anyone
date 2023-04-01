@@ -1,0 +1,44 @@
+body{
+    background-image: url(355180_original.jpg);
+    background-size: 115%;
+    backdrop-filter: blur(10px);
+    margin: auto;
+    padding-bottom: 300px;
+    
+
+}
+
+h1{
+    text-align: center;
+    color:brown;
+    text-shadow: 1px 1px 1px white;
+}
+h2{
+   text-align: center;
+   color:aqua;
+   text-shadow: 1px 1px black;
+}
+ul{
+    margin: auto;
+    display: block;
+    width: 550px;
+    
+}
+
+ul{
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 50px;
+    /* margin-left: 90px;
+    margin-right: 400px; */
+    background-color: darkorange;
+
+}
+#cam{
+    padding: 30px;
+}
+p{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
